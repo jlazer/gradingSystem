@@ -1,7 +1,7 @@
 //  Justin Lazarski
 //  CIS3090.04
-//  2/5/19
-//  In class assigment 1
+//  2/14/19
+//  In class assigment 2
 package com.company;
 
 import java.util.Scanner;
